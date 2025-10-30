@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
     int n, quizno, assignmentno;
-    double quizzmarks, obtained_marks_quiz, total_quiz_percent = 0.0;
+    double quizzmarks, obtained_marks_quiz, total_quiz_percent = 0.0; //gotta change the _ frrr
     double assignmentmarks, obtained_assignment_marks, total_assignment_percent = 0.0;
     double sessional1marks, sessional1_obtained, sessional2marks, sessional2_obtained, sessional1percent, sessional2percent;
     double projectmarks, project_marks_obtained, project_percent;
@@ -70,4 +70,5 @@ int main(){
         
 
     }
+
 }
